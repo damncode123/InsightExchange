@@ -18,6 +18,7 @@ pip-selfcheck.json
 .env
 
 # Database
+instance
 Thoughts.db
 
 # Compiled Python files
