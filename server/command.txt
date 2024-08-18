@@ -4,6 +4,6 @@ To deactivate the virtual environment : deactivate
 To run in debug mode TRUE = flask --app app --debug run
 
 
-git remote add origin https://github.com/damncode123/ThoughtBunch.git
+git remote add origin https://github.com/damncode123/InsightExchange.git
 git branch -M main
 git push -u origin main

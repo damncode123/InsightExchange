@@ -18,7 +18,7 @@ pip-selfcheck.json
 .env
 
 # Database
-friends.db
+Thoughts.db
 
 # Compiled Python files
 *.pyc
@@ -27,4 +27,5 @@ friends.db
 node_modules/
 /dist/
 
-.command.tet
+# Required command to run.
+command.txt
